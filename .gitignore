@@ -1,0 +1,6 @@
+screenshots/*.*
+!screenshots/.gitkeep
+results/*
+!results/.gitkeep
+.idea/
+.vscode/
